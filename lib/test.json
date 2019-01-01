@@ -1,7 +1,17 @@
 {
     "firstName": "Arka",
     "lastName": "Hajra",
-    "phone": "1234567890",
+    "phone": "8250058746",
     "password": "avc",
     "tosAgreement": true
+}
+{
+    "protocol": "http",
+    "url": "www.google.co.in",
+    "method": "get",
+    "successCodes": [
+        200,
+        201
+    ],
+    "timeoutSeconds": 1
 }
