@@ -3,14 +3,14 @@ Primary file for API
 */
 
 //Dependencies
-var server=require('./lib/server');
-var workers=require('./lib/workers');
+var server = require('./lib/server');
+var workers = require('./lib/workers');
 
 //Declare the app
-var app={}
+var app = {}
 
 //Init function
-app.init=function(){
+app.init = function () {
   //Start the server
   server.init();
 
@@ -23,4 +23,4 @@ app.init=function(){
 app.init();
 
 //Export the module
-module.exports=app;
+module.exports = app;
