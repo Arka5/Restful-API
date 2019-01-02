@@ -80,3 +80,4 @@ app.client.request = function (headers, path, method, queryStringObject, payload
     var payloadString = JSON.stringify(payload);
     xhr.send(payloadString);
 }
+
