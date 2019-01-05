@@ -1,6 +1,5 @@
 1)add password criteria
-2)password reset or change option(modified(secure))
+2)password reset(forgot password facility) or change option(modified(secure))
 3)Phone number verification
 4)added whatsapp support
 5)added support for https
-6)Syntax error message in CLI
